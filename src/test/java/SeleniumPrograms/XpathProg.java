@@ -36,7 +36,6 @@ public class XpathProg
         driver.findElement(By.id("checkout")).click();
 
     }
-
         public static void main(String[] args)
         {
             setup();
